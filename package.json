@@ -1,0 +1,22 @@
+{
+  "name": "todo_api",
+  "version": "1.0.0",
+  "description": "todo list ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnasLakhany/todo_api.git"
+  },
+  "author": "Annas Lakhany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnasLakhany/todo_api/issues"
+  },
+  "homepage": "https://github.com/AnnasLakhany/todo_api#readme",
+  "dependencies": {
+    "fastify": "^2.7.1"
+  }
+}
